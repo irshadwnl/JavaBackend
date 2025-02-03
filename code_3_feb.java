@@ -36,7 +36,7 @@ public class code_3_feb {
                 System.out.println("Enter How Much You want to Deposit:");
                 int add=sc.nextInt();
                 c1.deposit(add);
-                System.out.println("Deposit SuccessFull!!");
+                System.out.println("Deposit SuccessFullyyyyyy!!");
                 System.out.println("Your Balance is: "+c1.accBalance);
             }else if(n==2){
                 System.out.println("Enter the Ammount to be Withdrawn:");
