@@ -42,7 +42,7 @@ public class code_3_feb {
                 System.out.println("Enter the Ammount to be Withdrawn:");
                 int wd=sc.nextInt();
                 c1.withdraw(wd);
-                System.out.println("Withdrawn Successfully");
+                System.out.println("Withdrawn Successfull");
                 System.out.println("Total Balance:-"+c1.accBalance);
             }else if(n==3){
                 c1.checkBal();
