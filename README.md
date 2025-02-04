@@ -83,3 +83,10 @@ Day 6:-
 -- KISS
 
 -- YAGNI
+
+Day 7:-
+1.Is-a and Has-a relationship
+2.Inheritance
+3.Association,Aggregation,Composition.
+4.write a function to replace given word in a sentence with another word.
+5.Line comparison:-write a program to compare two lines print the line with bigger length.
