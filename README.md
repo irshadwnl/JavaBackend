@@ -85,6 +85,7 @@ Day 6:-
 -- YAGNI
 
 Day 7:-
+
 1.Is-a and Has-a relationship
 
 2.Inheritance
@@ -94,3 +95,15 @@ Day 7:-
 4.write a function to replace given word in a sentence with another word.
 
 5.Line comparison:-write a program to compare two lines print the line with bigger length.
+
+Day 8:-
+
+1.Method Overloading/Method Overriding
+
+2.class vs interface
+
+3.Polymorphism
+
+-> Run time polymorphism
+
+-> compile time polymorphism
