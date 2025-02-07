@@ -115,3 +115,10 @@ Class work  mothing
 -> Review taken of mine 
 
 ->Coding Question given to me: Spiral Matrix
+
+Day 10:-
+
+-> Absatraction 
+
+-> Encapsulation
+
