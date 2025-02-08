@@ -1,3 +1,4 @@
+package Week1_2;
 public class counter {
     int cnt=0;
     counter(){

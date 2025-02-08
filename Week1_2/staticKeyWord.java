@@ -1,3 +1,4 @@
+package Week1_2;
 public class staticKeyWord {
     public static class employee {
         int empid;

@@ -1,3 +1,4 @@
+package Week1_2;
 import java.util.*;
 public class code_3_feb {
     static class Customer{

@@ -1,3 +1,4 @@
+package Week1_2;
 // import java.util.*;
 // public class classWork_4feb {
 //     public static void main(String[] args) {
